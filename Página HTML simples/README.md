@@ -1,4 +1,4 @@
 # DIO-primeiro-desafio-github
-Repositório criado para o primeiro desafio DIO Git/GitHub, 
-para verificação dos conhecimentos obidos.
+Página web simplista criada com HTML e CSS. 🙂
+Textos gerados automáticamn,  sem releva, todos os dados são fictícios.
 ⭐❤️
